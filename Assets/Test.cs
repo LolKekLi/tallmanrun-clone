@@ -21,6 +21,7 @@ public class Test : MonoBehaviour
         
         if (Input.GetKeyDown(KeyCode.A))
         {
+            /////////sdsdsdadskjfbnasdkJB
             PlayerMovementControl.Instance.DeBuffThePlayer(10);
         }
     }
